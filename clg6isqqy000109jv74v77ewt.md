@@ -1,10 +1,10 @@
 ---
-title: "Dockerfiles for diffferent tech stacks"
+title: "Dockerfiles for increasing productivity!"
 seoTitle: "Dockerize and run your app with the blink of a speed"
 seoDescription: "Dockerize and run your app with the blink of a speed"
 datePublished: Fri Apr 07 2023 12:25:34 GMT+0000 (Coordinated Universal Time)
 cuid: clg6isqqy000109jv74v77ewt
-slug: dockerfiles-for-diffferent-tech-stacks
+slug: dockerfiles-for-increasing-productivity
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jOqJbvo1P9g/upload/9497284e134be4917459cd31860940e0.jpeg
 tags: docker, apis, rest-api, yaml, containers
 
