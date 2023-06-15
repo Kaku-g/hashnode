@@ -40,6 +40,8 @@ You can watch the live preview here:
 
 [Website](https://mdhoster-frontend.vercel.app/)
 
+\[Note\] Your repository must be public to convert it into a web page.
+
 ### Video Preview
 
 %[https://www.loom.com/share/0b2004a8ebae4acdb58d822d13c79ba9?sid=fa50c560-6ef1-4976-ac29-40100119808a] 
