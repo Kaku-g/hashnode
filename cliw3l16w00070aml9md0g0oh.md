@@ -1,8 +1,8 @@
 ---
-title: "Deploy app for your github repo instantly!"
+title: "Deploy website for your github repo instantly!"
 datePublished: Wed Jun 14 2023 19:21:05 GMT+0000 (Coordinated Universal Time)
 cuid: cliw3l16w00070aml9md0g0oh
-slug: deploy-app-for-your-github-repo-instantly
+slug: md-hoster
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686767862463/f9d89d35-5b4a-488c-a5c2-c62e74b65ab6.png
 tags: github, reactjs, appwrite, appwritehackathon, appwrite-appwritehackathon
 
