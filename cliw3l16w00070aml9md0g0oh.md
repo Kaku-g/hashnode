@@ -42,6 +42,6 @@ You can watch the live preview here:
 
 ### Video Preview
 
-[Watch here](https://www.loom.com/share/e0cd50fae2e24c228a3b1837b6c914fc?sid=e382e964-d177-41ed-93c8-8467d8a25760)
+%[https://www.loom.com/share/0b2004a8ebae4acdb58d822d13c79ba9?sid=fa50c560-6ef1-4976-ac29-40100119808a] 
 
 Ps- This is an open-source project that can be improved further. So don't hesitate to open a pull request.
