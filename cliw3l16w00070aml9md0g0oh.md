@@ -4,7 +4,7 @@ datePublished: Wed Jun 14 2023 19:21:05 GMT+0000 (Coordinated Universal Time)
 cuid: cliw3l16w00070aml9md0g0oh
 slug: md-hoster
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686767862463/f9d89d35-5b4a-488c-a5c2-c62e74b65ab6.png
-tags: github, reactjs, appwrite, appwritehackathon, appwrite-appwritehackathon
+tags: javascript, reactjs, appwrite, appwritehackathon, appwrite-appwritehackathon
 
 ---
 
@@ -12,7 +12,7 @@ tags: github, reactjs, appwrite, appwritehackathon, appwrite-appwritehackathon
 
 ### Description :
 
-Do you have projects to showcase? but don't have a dedicated site for each one of them, then md-hoster is for you. Launch web app for your github repo ufrom markdown files(like README.md)
+Do you have projects to showcase? but don't have a dedicated site for each one of them, then md-hoster is for you. Launch web app for your github repo from markdown files(like README.md)
 
 Markdown hoster lets you create a website from your GitHub repo instantly . Login using GitHub then enter the repo name and the path to the markdown file , hit submit and voila your webpage is up and running.
 
